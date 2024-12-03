@@ -1,1 +1,6 @@
-# Aws-vpc
+![EC2 instance](https://github.com/user-attachments/assets/f92980b8-26bf-40d6-94f6-e0039512c2e6)
+![Internet gateway](https://github.com/user-attachments/assets/99ce44c7-67c4-402e-a919-7de7d1d88942)
+![Private subnet](https://github.com/user-attachments/assets/60557a87-e0f4-4616-bb35-9437b310893c)
+![public subnet](https://github.com/user-attachments/assets/aaed78b5-03df-4714-a814-08d39dde3bde)
+![Route tables](https://github.com/user-attachments/assets/424ddafc-5d21-4b9f-92af-07f8236787d5)
+![VPC](https://github.com/user-attachments/assets/e71ef915-db78-4d47-b910-81e26f274f3e)
